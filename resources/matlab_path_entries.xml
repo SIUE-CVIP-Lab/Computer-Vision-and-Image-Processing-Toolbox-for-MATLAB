@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<paths>
+
+  <path>.</path>
+
+  <path>CVIP-Toolbox_resources</path>
+
+  <path>CVIPlab_Matlab</path>
+
+  <path>GUI</path>
+
+  <path>GUI/Features</path>
+
+  <path>GUI/GUIfun</path>
+
+  <path>GUI/Pattern</path>
+
+  <path>GUI/Pattern/Normalization</path>
+
+  <path>GUI/Resources</path>
+
+  <path>GUI/Temp</path>
+
+  <path>GUI/Template</path>
+
+  <path>doc</path>
+
+  <path>images</path>
+
+  <path>images/Chapter 1</path>
+
+  <path>images/Chapter 10</path>
+
+  <path>images/Chapter 11</path>
+
+  <path>images/Chapter 12</path>
+
+  <path>images/Chapter 2</path>
+
+  <path>images/Chapter 3</path>
+
+  <path>images/Chapter 4</path>
+
+  <path>images/Chapter 5</path>
+
+  <path>images/Chapter 6</path>
+
+  <path>images/Chapter 7</path>
+
+  <path>images/Chapter 8</path>
+
+  <path>images/Chapter 9</path>
+
+  <path>mFiles</path>
+
+  <path>mFiles/html</path>
+
+  <path>mFiles/html/Images</path>
+
+  <path>mFiles/html/helpsearch-v2</path>
+
+  <path>mFiles/html/helpsearch-v3</path>
+
+</paths>

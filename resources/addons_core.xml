@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<addonCore>
+
+  <label>CVIP_Toolbox</label>
+
+  <version>3.5</version>
+
+  <type>Toolbox</type>
+
+  <identifier>cef60ee8-6ccd-4425-9f0c-6004ca5a4147</identifier>
+
+  <summary>The MATLAB toolbox for the exploration of computer vision and image processing.</summary>
+
+  <createdBy name="Dr. Scott E Umbaugh"/>
+
+  <image>resources/screenshot.png</image>
+
+</addonCore>
