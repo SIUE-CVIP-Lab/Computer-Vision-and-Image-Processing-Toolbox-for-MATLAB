@@ -39,3 +39,4 @@
 # MATLAB CVIP Toolbox Contributors
 	Sujata Bista, Murat Aslan, Naveena Gorre, Joseph Olden, Andrew Widmar,Hridoy Biswas
 
+Copyright &#169; 2019-2020 <a href="http://www.siue.edu/~sumbaug/">Scott
