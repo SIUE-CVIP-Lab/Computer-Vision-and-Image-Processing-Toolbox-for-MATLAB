@@ -33,12 +33,12 @@
 # Copyright &#169; 2019-2020 <a href="http://www.siue.edu/~sumbaug/">Scott E Umbaugh </a>
 
 * MATLAB CVIP Toolbox Developers 
-                - Scott Umbaugh, Krishna Regmi, Deependra Mishra, Norsang Lama, Mehrdad Alvandipour, Lakshmi Gorantla, Akhila Karlapalem, Julian Rene Cuellar Buritica, Sujata Bista, Murat Aslan, Naveena Gorre, Joseph Olden, Andrew Widmar,Hridoy Biswas
+-- Scott Umbaugh, Krishna Regmi, Deependra Mishra, Norsang Lama, Mehrdad Alvandipour, Lakshmi Gorantla, Akhila Karlapalem, Julian Rene Cuellar Buritica, Sujata Bista, Murat Aslan, Naveena Gorre, Joseph Olden, Andrew Widmar,Hridoy Biswas
 
 * Primary MATLAB CVIP Toolbox Developers 
-                - Scott Umbaugh, Krishna Regmi, Deependra Mishra, Norsang Lama, Mehrdad Alvandipour, Lakshmi Gorantla, Akhila Karlapalem, Julian Rene Cuellar Buritica
+-- Scott Umbaugh, Krishna Regmi, Deependra Mishra, Norsang Lama, Mehrdad Alvandipour, Lakshmi Gorantla, Akhila Karlapalem, Julian Rene Cuellar Buritica
 
 * MATLAB CVIP Toolbox Contributors
-	- Sujata Bista, Murat Aslan, Naveena Gorre, Joseph Olden, Andrew Widmar,Hridoy Biswas
+-- Sujata Bista, Murat Aslan, Naveena Gorre, Joseph Olden, Andrew Widmar,Hridoy Biswas
 
 
