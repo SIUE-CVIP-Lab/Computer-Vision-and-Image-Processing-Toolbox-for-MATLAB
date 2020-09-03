@@ -32,15 +32,15 @@
 - Transform Filters: Restoration
 
 
-# Copyright &#169; 2019-2020 <a href="http://www.siue.edu/~sumbaug/">Scott E Umbaugh </a>
+<h1>Copyright &#169; 2019-2020 <a href="http://www.siue.edu/~sumbaug/">Scott E Umbaugh </a></h1>
 
 <h2>MATLAB CVIP Toolbox Developers</h2>
-- Scott Umbaugh, Krishna Regmi, Deependra Mishra, Norsang Lama, Mehrdad Alvandipour, Lakshmi Gorantla, Akhila Karlapalem, Julian Rene Cuellar Buritica, Sujata Bista, Murat Aslan, Naveena Gorre, Joseph Olden, Andrew Widmar,Hridoy Biswas
+* Scott Umbaugh, Krishna Regmi, Deependra Mishra, Norsang Lama, Mehrdad Alvandipour, Lakshmi Gorantla, Akhila Karlapalem, Julian Rene Cuellar Buritica, Sujata Bista, Murat Aslan, Naveena Gorre, Joseph Olden, Andrew Widmar,Hridoy Biswas
 
 <h2>Primary MATLAB CVIP Toolbox Developers</h2> 
-- Scott Umbaugh, Krishna Regmi, Deependra Mishra, Norsang Lama, Mehrdad Alvandipour, Lakshmi Gorantla, Akhila Karlapalem, Julian Rene Cuellar Buritica
+*Scott Umbaugh, Krishna Regmi, Deependra Mishra, Norsang Lama, Mehrdad Alvandipour, Lakshmi Gorantla, Akhila Karlapalem, Julian Rene Cuellar Buritica
 
 <h3>MATLAB CVIP Toolbox Contributors</h3>
-- Sujata Bista, Murat Aslan, Naveena Gorre, Joseph Olden, Andrew Widmar,Hridoy Biswas
+*Sujata Bista, Murat Aslan, Naveena Gorre, Joseph Olden, Andrew Widmar,Hridoy Biswas
 
 
