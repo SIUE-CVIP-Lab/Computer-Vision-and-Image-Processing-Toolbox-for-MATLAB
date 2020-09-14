@@ -33,7 +33,7 @@
 
 
 <h1>Copyright &#169; 2019-2020 <a href="http://www.siue.edu/~sumbaug/">Scott E Umbaugh </a></h1>
-<p> <a href="LISENSE.md"> LICENSE</a></p>
+<p> <a href="https://github.com/SIUE-CVIP-Lab/Computer-Vision-and-Image-Processing-Toolbox-for-MATLAB/blob/master/LICENSE.md"> LICENSE</a></p>
 
 <h2>MATLAB CVIP Toolbox Developers</h2>
 * Scott Umbaugh, Krishna Regmi, Deependra Mishra, Norsang Lama, Mehrdad Alvandipour, Lakshmi Gorantla, Akhila Karlapalem, Julian Rene Cuellar Buritica, Sujata Bista, Murat Aslan, Naveena Gorre, Joseph Olden, Andrew Widmar,Hridoy Biswas
